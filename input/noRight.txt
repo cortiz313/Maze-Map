@@ -1,0 +1,4 @@
+S	N	N
+N	N	N
+XD	XR	N
+N	N	T
